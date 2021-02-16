@@ -1,0 +1,85 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (Python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/Development/Python/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/lib/snapd/snap/pycharm-community/224/plugins/python-ce/helpers" type="simple" />
+            <root url="file:///usr/lib64/python3.6" type="simple" />
+            <root url="file:///usr/lib64/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Development/Python/venv/lib64/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Development/Python/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.3/python_stubs/621221538" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Development/Python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/lib/snapd/snap/pycharm-community/224/plugins/python-ce/helpers" type="simple" />
+            <root url="file:///usr/lib64/python3.6" type="simple" />
+            <root url="file:///usr/lib64/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib64/python3.6/site-packages" type="simple" />
+            <root url="file:///usr/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.3/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (logbackupper)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/Development/logbackupper/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///var/lib/snapd/snap/pycharm-community/224/plugins/python-ce/helpers" type="simple" />
+            <root url="file:///usr/lib64/python3.6" type="simple" />
+            <root url="file:///usr/lib64/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Development/logbackupper/venv/lib64/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Development/logbackupper/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2020.3/python_stubs/-1781433795" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Development/logbackupper" />
+    </jdk>
+  </component>
+</application>
