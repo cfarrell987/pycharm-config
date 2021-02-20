@@ -4,4 +4,11 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="todo" value="#TODO $DATE$ $USER$:" description="Insert TODO comment with the current date and username" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
