@@ -5,6 +5,7 @@
       <removed_mapping ext="cfg" approved="true" type="Ini" />
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
     </extensionMap>
   </component>
 </application>
