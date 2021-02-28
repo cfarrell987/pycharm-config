@@ -9,11 +9,14 @@
     <option name="projectDetailsCustom" value="" />
     <option name="projectStateCustom" value="" />
     <option name="projectIconLargeTextCustom" value="" />
+    <option name="projectIconSmall" value="APPLICATION" />
     <option name="projectIconSmallTextCustom" value="" />
     <option name="fileDetailsCustom" value="" />
     <option name="fileStateCustom" value="" />
     <option name="fileIconLargeTextCustom" value="" />
+    <option name="fileIconSmall" value="NONE" />
     <option name="fileIconSmallTextCustom" value="" />
+    <option name="fileHideVcsIgnored" value="true" />
     <option name="applicationType" value="IDE" />
     <option name="theme" value="atom" />
     <option name="applicationLastUpdateNotification" value="1.6.1" />
