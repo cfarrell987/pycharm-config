@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="passiv-integration-multi" type="AUTO_DETECTED" />
+      <mapping pattern="local" type="AUTO_DETECTED" />
       <mapping pattern="passiv-integration" type="AUTO_DETECTED" />
       <mapping pattern="passiv-integrations-multi-live-ssl" type="AUTO_DETECTED" />
       <mapping ext="pub" type="PLAIN_TEXT" />
