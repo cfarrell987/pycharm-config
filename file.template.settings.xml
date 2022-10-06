@@ -1,0 +1,9 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Ansible Playbook.yaml" reformat="true" live-template-enabled="true" />
+      <template name="Markdown.md" reformat="true" live-template-enabled="true" />
+      <template name="Terraform.tf" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
