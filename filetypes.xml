@@ -8,6 +8,7 @@
       <mapping pattern="passiv-integration" type="AUTO_DETECTED" />
       <mapping pattern="aws-integrations" type="AUTO_DETECTED" />
       <mapping pattern="passiv-integrations-multi-live-ssl" type="AUTO_DETECTED" />
+      <mapping pattern="passiv-staging-multi-live-ssl-admin" type="AUTO_DETECTED" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
